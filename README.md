@@ -16,11 +16,4 @@ https://app.powerbi.com/links/Bc7oMU9JtK?ctid=dee74457-d751-4011-a5c4-44560cf8b4
 - **Excel** para manipulação e preparação dos dados
 - **Python/Pandas** para ETL e análise prévia (se aplicável)
 
-## 📌 Como Usar
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/seuusuario/desmatamento-brasil.git
-   ```
-2. Baixe o arquivo `.pbix` do repositório.
-3. Abra no Power BI Desktop.
-4. Atualize os dados conforme necessário.
+
