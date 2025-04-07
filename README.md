@@ -16,7 +16,7 @@
 ## 🖼️ Visual do Dashboard
 
 <p align="center">
-  <img src="imagens/image.png" alt="Dashboard Preview" width="800px"/>
+  <img src="tb.png" alt="Dashboard Preview" width="800px"/>
 </p>
 
 ---
