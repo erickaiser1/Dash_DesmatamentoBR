@@ -23,3 +23,30 @@
 
 ## 📂 Estrutura do Projeto
 
+
+---
+
+## 📊 Principais Recursos
+
+- 📆 **Evolução do desmatamento por ano**
+- 🌎 **Mapa interativo por estado**
+- 🏆 **Ranking de estados mais afetados**
+- 📈 **Gráficos de tendência e análise comparativa**
+- ⚠️ **Alertas de risco por estado**
+
+---
+
+## 🧩 Fontes de Dados
+
+- [INPE - PRODES](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)
+- [MapBiomas](https://mapbiomas.org/)
+- [Terrabrasilis](http://terrabrasilis.dpi.inpe.br/)
+
+---
+
+## 💡 Como Usar
+
+```bash
+git clone https://github.com/erickaiser1/Dash_DesmatamentoBR.git
+
+
