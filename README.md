@@ -23,6 +23,7 @@
 
 ## 📂 Estrutura do Projeto
 
+Dash_DesmatamentoBR/ │ ├── 📊 Dashboard.pbix # Arquivo do Power BI com o dashboard ├── 📁 imagens/ # Pasta com imagens usadas no README │ └── image.png # Print do dashboard ├── 📁 dados/ # (Opcional) Pasta para arquivos de dados brutos ou tratados │ └── desmatamento.csv # Exemplo de base de dados ├── README.md # Documentação do projeto
 
 ---
 
