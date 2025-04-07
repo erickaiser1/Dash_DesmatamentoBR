@@ -1,19 +1,22 @@
-🌿 Desmatamento no Brasil - Dashboard em Power BI
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Visualiza%C3%A7%C3%A3o%20de%20Dados-darkgreen?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ambiente-Constru%C3%A7%C3%A3o%20Civil-orange?style=for-the-badge"/>
+</p>
 
-Este repositório contém um **dashboard interativo no Power BI** que analisa dados sobre o desmatamento no Brasil. O objetivo é fornecer insights sobre a evolução do desmatamento, os estados mais afetados e possíveis correlações com fatores ambientais e socioeconômicos.
+<h1 align="center">🌳 Dashboard de Desmatamento no Brasil</h1>
 
-https://app.powerbi.com/groups/me/reports/216293a3-9b8e-4c67-bad5-83faf7b581cd?ctid=dee74457-d751-4011-a5c4-44560cf8b415&pbi_source=linkShare&bookmarkGuid=a8f1bdea-b591-4e4b-a270-7f6169941baf
+<p align="center">Visualize os impactos do desmatamento por estado e região com dados atualizados e insights visuais.</p>
 
-## 📊 Funcionalidades
-- 📈 Análise temporal do desmatamento por estado
-- 🗺️ Mapas interativos para visualização geográfica
-- 📉 Comparação entre desmatamento entre os principais estados
-- 📊 Gráficos de tendência e indicadores-chave
+---
 
+## 🖼️ Visual do Dashboard
 
-## 🛠️ Tecnologias Utilizadas
-- **Power BI** para criação do dashboard
-- **Excel** para manipulação e preparação dos dados
-- **Python/Pandas** para ETL e análise prévia (se aplicável)
+<p align="center">
+  <img src="imagens/image.png" alt="Dashboard Preview" width="800px"/>
+</p>
 
+---
+
+## 📂 Estrutura do Projeto
 
