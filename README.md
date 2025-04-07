@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Visualiza%C3%A7%C3%A3o%20de%20Dados-darkgreen?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ambiente-Constru%C3%A7%C3%A3o%20Civil-orange?style=for-the-badge"/>
+  <a href="https://github.com/erickaiser1/Dash_DesmatamentoBR">
+    <img src="https://img.shields.io/badge/Visualiza%C3%A7%C3%A3o%20de%20Dados-Dashboard-darkgreen?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  </a>
+  <a href="https://app.powerbi.com/">
+    <img src="https://img.shields.io/badge/Abrir%20no%20Power%20BI-Online-blue?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  </a>
 </p>
 
 <h1 align="center">🌳 Dashboard de Desmatamento no Brasil</h1>
